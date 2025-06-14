@@ -124,9 +124,9 @@ SpotiTix/
 
 ---
 
-## 📸 Sample Screenshot
+## 📸 Screenshots
 
-![SpotiTix](https://github.com/user/repo/assets/spotitix-screenshot.png)
+![SpotiTix_Dashboard](https://github.com/user-attachments/assets/64e37b5c-2f33-4e9d-b63c-7412661fe033)
 
 ---
 
