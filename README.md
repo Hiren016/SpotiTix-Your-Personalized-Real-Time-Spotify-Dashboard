@@ -35,7 +35,8 @@ Spotify Wrapped only arrives once a year — leaving users blind to their listen
 | 🧩 MongoDB BI Connector    | Connect MongoDB Atlas to Power BI                    |
 | 📄 MS Excel                | Optional local data export                           |
 | 🌐 HTML / JavaScript       | Frontend auth handling (for browser-based auth)      |
-
+| ⚙️ Flask                   | Lightweight web server for Spotify OAuth callback handling      |
+  
 ---
 
 ## 📈 Dashboard Visuals & Features
