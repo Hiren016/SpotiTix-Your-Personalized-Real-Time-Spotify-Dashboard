@@ -140,12 +140,6 @@ SpotiTix/
 
 ---
 
-## 🔗 Live Dashboard Link
-
-👉 [Click to Launch Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTY5Yjg2MDMtNmEzMi00OTVmLTlkYTUtMzg1NTc2ZGI3N2IzIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
-
----
-
 ## 📧 Contact
 
 | Field        | Details                                                   |
