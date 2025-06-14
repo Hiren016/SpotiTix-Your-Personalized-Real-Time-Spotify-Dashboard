@@ -127,6 +127,11 @@ SpotiTix/
 ## 📸 Screenshots
 
 ![SpotiTix_Dashboard](https://github.com/user-attachments/assets/64e37b5c-2f33-4e9d-b63c-7412661fe033)
+![login](https://github.com/user-attachments/assets/bcffb603-ccdd-46ff-994f-83b16bfc2a19)
+![authorization](https://github.com/user-attachments/assets/e0e43657-0265-4dd2-9e72-be8e2a1ab4e8)
+![Generating_Dashboard](https://github.com/user-attachments/assets/7a90b5de-7e73-4e89-bd61-e596e179accf)
+![real_time_dashboard_generated](https://github.com/user-attachments/assets/73a8ca0f-069e-47a8-81bb-c8901ca48bd6)
+
 
 ---
 
