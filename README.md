@@ -1,4 +1,4 @@
-# 🎧 SpotiTix — Your Personalized Real-Time Spotify Dashboard
+# 🎧 SpotiTix — Your Personalized Real-Time Spotify Analysis Dashboard
 
 🚀 **Live Dashboard Link:**  
 [🔗 SpotiTix Dashboard (Power BI)](https://app.powerbi.com/view?r=eyJrIjoiNTY5Yjg2MDMtNmEzMi00OTVmLTlkYTUtMzg1NTc2ZGI3N2IzIiwidCI6ImQxZjE0MzQ4LWYxYjUtNGEwOS1hYzk5LTdlYmYyMTNjYmM4MSIsImMiOjEwfQ%3D%3D)
