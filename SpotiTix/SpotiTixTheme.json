@@ -1,0 +1,18 @@
+{
+  "name": "SpotiTix Dark Theme",
+  "dataColors": ["#1DB954", "#1ED760", "#25D366", "#1C1C1C", "#0F0F0F"],
+  "background": "#191414",
+  "foreground": "#FFFFFF",
+  "tableAccent": "#1DB954",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": "#191414", "transparency": 0 }],
+        "title": [{ "color": "#FFFFFF", "fontSize": 12 }],
+        "labels": [{ "color": "#FFFFFF", "fontSize": 10 }],
+        "valueAxis": [{ "labelColor": "#FFFFFF", "titleColor": "#FFFFFF" }],
+        "categoryAxis": [{ "labelColor": "#FFFFFF", "titleColor": "#FFFFFF" }]
+      }
+    }
+  }
+}
